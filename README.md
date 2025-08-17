@@ -1,4 +1,4 @@
-# Olli Simple Bus Movement Simulator
+# Kotugo Simple Car Movement Simulator
 
 ## Prerequisites
 
@@ -6,7 +6,7 @@
 
 ## Quick Start
 
-1. Clone this [repo](https://github.com/ibm-watson-data-lab/olli-simple-sim)
+1. Clone this [repo](https://github.com/fuadagus/kotugo_express)
 1. From terminal, go to the root directory of the cloned repo
 1. From terminal, Run command
 
